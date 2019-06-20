@@ -64,6 +64,9 @@ Git                  | 4
 VSCode               | 5
 Intellij IDEA        | 4
 whistle              | 3
+Docker               | 4
+CircleCI             | 4
+Jenkins              | 4
 
 
 # Package Management
@@ -72,3 +75,11 @@ Package Tool         | Rate
 -------------------- | -------------
 npm                  | 4
 gradle               | 3
+
+
+# Frameworks
+
+Name                 | Rate
+-------------------- | -------------
+SprintBoot           | 3
+Kubernetes           | 2
